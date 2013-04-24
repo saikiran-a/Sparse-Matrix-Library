@@ -35,11 +35,11 @@ Hence the Data structure stores only non-zero values present in the matrix.
 
 project consists of 5 files...
 
-1 - matrix.h -> contains the structure and the functions for the user.
-2 - client.c -> example client interface
-3 - implementation.cpp -> impementaion of the above functions.
-4 - matrix.txt -> input type 1
-5 - triplet -> input type 2
+      1 - matrix.h -> contains the structure and the functions for the user.
+      2 - client.c -> example client interface
+      3 - implementation.cpp -> impementaion of the above functions.
+      4 - matrix.txt -> input type 1
+      5 - triplet -> input type 2
 
 
 
@@ -48,5 +48,7 @@ How to run the project:
 
 in linux:
 
-gcc client.c implementation.c -o output
-./output
+      gcc client.c implementation.c -o output
+
+
+      ./output
